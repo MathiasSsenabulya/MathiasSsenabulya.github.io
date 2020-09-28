@@ -73,18 +73,25 @@ p {
   border-radius: 50%;
 }
 
-#work {
+#projects {
     height: 100%;
     padding: 60px 0;
     text-align: center;
     background: #fff;
 }
 
-#contact {
+#clients {
   height: 100%;
   padding: 60px 0;
   text-align: center;
   background: #eee;
+}
+
+#contact {
+  height: 100%;
+  padding: 60px 0;
+  text-align: center;
+  background: #505050;
 }
 
 #contact-form {
